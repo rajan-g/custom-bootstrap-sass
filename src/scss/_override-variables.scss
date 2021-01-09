@@ -1,0 +1,18 @@
+/*
+ * Override the variables you want to customize, all variables can refer to: 
+ * 
+ * node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss
+ * 
+ */
+
+
+$body-bg:               #dff0d8 !default;
+$link-color:            pink !default;
+$primary: red;
+$body-bg: #000;
+$body-color: #111;
+$brand-primary:         darken(red, 6.5%) !default; 
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
